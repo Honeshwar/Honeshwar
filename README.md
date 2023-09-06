@@ -1,5 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2E2fvcrx_SgVcDDvOR_uu0JlPp5hsROpxCA&usqp=CAU)]
-
+<img align="center" alt="Coding" width="1200" src="https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg">
 <h1 align="center">Hi 👋, I'm Honeshwar Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
