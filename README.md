@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1200" src="https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg">
+<img align="center" alt="Coding" width="1200" src="https://t4.ftcdn.net/jpg/03/44/17/87/360_F_344178721_CyhVfjDIsl42Me7DpdRT5UOHmbmfG0qI.jpg">
 <h1 align="center">Hi 👋, I'm Honeshwar Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
