@@ -33,7 +33,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### 🔗 Portfolio & Contact
 
-- 🌐 Portfolio: **[https://honeshwar.github.io/portfolio/pages/](https://honeshwar.github.io/portfolio/pages/)**
+- 🌐 Portfolio: https://honeshwarthakur.vercel.app/
 - 📧 Email: **honeshwarthakur@gmail.com**
 - 💬 Ask me about: **HTML, CSS, JavaScript, React, Next.js**
 
