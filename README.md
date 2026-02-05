@@ -74,7 +74,6 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 ### ⭐ Featured Projects
-
 #### 🚀 NextJS Movie exploration App
 A fast and responsive movie discovery app using public APIs.
 - 🔍 Search & explore movies
@@ -90,6 +89,16 @@ Modern e-commerce frontend with cart & checkout flow.
 - 💳 Stripe-ready UI <br>
 👉 Repo: https://github.com/Honeshwar/e-commerce-app  
 👉 Live: https://honeshwar-store.netlify.app/
+
+### 🏔️ LVMR MIDTOWN – PG Website
+Modern, responsive website for a Paying Guest residence in Kullu, Himachal Pradesh.
+- 🏠 PG accommodation for students & working professionals
+- 📱 Mobile-first, fully responsive design
+- 🖼️ Image gallery & room showcase
+- 📍 Location & contact integration
+- ⚡ Fast, SEO-optimized static site  
+👉 Repo: https://github.com/Honeshwar/lvmr  
+👉 Live: https://lvmr.in/
 
 <!--
 ---
