@@ -6,10 +6,11 @@ Frontend Developer • React / Next.js • Building fast & scalable web experien
 <p align="center">
 🚀 Open to <b>Remote</b> & <b>Startup</b> opportunities
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Clean+UI+%26+UX" />
+</p>
 
 <br/>
-
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=honeshwar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -17,12 +18,8 @@ Frontend Developer • React / Next.js • Building fast & scalable web experien
 
 ---
 
-<!-- <img align="right" alt="Frontend Developer Coding" width="250"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" /> -->
-
 
 ### 👨‍💻 About Me
-
 - 💡 Frontend Developer focused on **clean UI, performance & usability**
 - ⚛️ Strong in **React.js, Next.js, Redux Toolkit**
 - 🎯 Experience building **real production websites & dashboards**
