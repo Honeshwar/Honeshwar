@@ -18,6 +18,8 @@ Frontend Developer • React / Next.js • Building fast & scalable web experien
 
 ---
 
+<img align="right" alt="Frontend Developer Coding" width="200"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### 👨‍💻 About Me
 - 💡 Frontend Developer focused on **clean UI, performance & usability**
