@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Honeshwar Thakur</h1>
 <h3 align="center">
-Frontend Developer • React / Next.js • Building fast & scalable web experiences
+Frontend Developer • React / Next.js / Node.js • Building fast & scalable web experiences
 </h3>
 
 <p align="center">
 🚀 Open to <b>Remote</b> & <b>Startup</b> opportunities
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Clean+UI+%26+UX" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+NodeJS+%7C+ExpressJs+%7C+Mongodb;Building+Clean+UI+%26+UX" />
 </p>
 
 <br/>
@@ -23,7 +23,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### 👨‍💻 About Me
 - 💡 Frontend Developer focused on **clean UI, performance & usability**
-- ⚛️ Strong in **React.js, Next.js, Redux Toolkit**
+- ⚛️ Strong in **React.js, Next.js, Redux Toolkit, NodeJS, ExpressJS, Mongodb**
 - 🎯 Experience building **real production websites & dashboards**
 - 🧩 Love working with **startups**, owning features end-to-end
 - 🌍 Comfortable working with **remote teams**
@@ -34,7 +34,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 - 🌐 Portfolio: https://honeshwarthakur.vercel.app/
 - 📧 Email: **honeshwarthakur@gmail.com**
-- 💬 Ask me about: **HTML, CSS, JavaScript, React, Next.js**
+- 💬 Ask me about: **HTML, CSS, JavaScript, React, Next.js, Redux Toolkit, NodeJS, ExpressJS, Mongodb**
 
 <!--
 ---
@@ -121,6 +121,7 @@ Modern, responsive website for a Paying Guest residence in Kullu, Himachal Prade
 ### 🚀 Currently Looking For
 
 - ✅ Frontend Developer (React / Next.js)
+- ✅ Backend Developer (Node.js / Express.js / Mongodb / Python / FastAPI)
 - ✅ Remote / Startup-friendly teams
 - ✅ Product-driven companies
 
